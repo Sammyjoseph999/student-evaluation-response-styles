@@ -1,5 +1,7 @@
 # How students really fill in course evaluations
 
+[![notebook](https://github.com/Sammyjoseph999/student-evaluation-response-styles/actions/workflows/notebook.yml/badge.svg)](https://github.com/Sammyjoseph999/student-evaluation-response-styles/actions/workflows/notebook.yml)
+
 An analysis of 5,820 end-of-term course evaluations from a Turkish university, each with 28 questions on a 1-5 scale. It started as a look at which aspects of teaching students rate highest, and became a study of how the forms are filled in.
 
 <img src="images/straight_lining.png" alt="Number of distinct answers per form, and the answer straight-liners choose" width="820">
