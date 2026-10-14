@@ -34,3 +34,7 @@ Descriptive statistics, chi-square tests of independence, correlation analysis, 
 pip install -r requirements.txt
 jupyter notebook notebook.ipynb
 ```
+
+## License
+
+The code is released under the [MIT License](LICENSE). Datasets keep the terms of their original sources, described above.
